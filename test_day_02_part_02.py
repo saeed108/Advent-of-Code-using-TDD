@@ -16,7 +16,7 @@ def test_18():
     
     assert find(result[0] , numbers)==102
 
-def test_find_19():
+def test_19():
     global numbers
     numbers_calculate=numbers.copy()
     numbers_calculate[1]=2
